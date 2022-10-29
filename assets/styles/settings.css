@@ -1,0 +1,32 @@
+/*****************/
+/* font setup start*/
+/*****************/
+@font-face {
+    font-family: 'Circular Std';
+    src: url('../fonts/CircularStd-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/PlayfairDisplay-VariableFont_wght.ttf');
+}
+
+/*****************/
+/* font setup end*/
+/*****************/
+
+:root {
+    /* font variable*/
+    --font_Circular: 'Circular Std';
+    --font_Playfair: 'Playfair Display';
+
+    /* border variable*/
+    --border: 0px solid red;
+
+    /* color variable*/
+    --brand_color: #0d354f;
+    --paragraph_color: #727272;
+    --off_orange: #a3714e;
+    --white: #ffffff;
+    --light_orange: #f6a25c;
+}
