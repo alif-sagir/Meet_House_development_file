@@ -2321,6 +2321,8 @@
     /*********************/
     /* banner_end_part end */
     /*********************/
+
+
     /*************************/
     /* seasonal_area start */
     /*************************/
@@ -2711,6 +2713,18 @@
     /*************************/
     /*meat_house_story_area_end*/
     /*************************/
+
+/*************************/
+    /*coundown_area_start*/
+    /*************************/
+    .coundown_area_li_1 {
+        padding-left: 25px;
+    }
+/*************************/
+    /*coundown_area_end*/
+    /*************************/
+
+
     /*************************/
     /*inside_the_box_area_start*/
     /*************************/
@@ -2740,7 +2754,7 @@
 
     .inside_the_box_content .inside_the_box_content_1 {
         top: 235px;
-        left: 15;
+        left: 15px;
     }
 
     .inside_the_box_content .inside_the_box_content_2 {
