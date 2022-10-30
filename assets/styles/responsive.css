@@ -352,20 +352,22 @@
         padding: 89px 0px;
         background-position-x: 60%;
         background-size: 44%;
+        width: 308px;
+        margin: auto;
     }
 
     .from_our_farm_meat .from_our_farm_meat_img_2 {
         /* height: 360px; */
-        left: -5%;
+        left: 0;
         top: 20%;
         width: 100%;
         background-size: 50%;
     }
 
     .from_our_farm_meat .from_our_farm_meat_img_3 {
-        background-size: 56%;
-        left: -26%;
-        top: 6%;
+        background-size: 172px;
+        left: -81px;
+        top: 7px;
         height: 130%;
     }
 
@@ -1133,8 +1135,8 @@
     .from_our_farm_meat .from_our_farm_meat_img_3 {
         height: 310px;
         background-size: 56%;
-        left: -26%;
-        top: 2%;
+        left: -160px;
+        top: 5px;
     }
 
     .from_our_farm_content {
@@ -1818,8 +1820,8 @@
 
     .from_our_farm_meat .from_our_farm_meat_img_3 {
         background-size: 85%;
-        top: 115px;
-        left: 42px;
+        top: 107px;
+        left: 23px px;
     }
 
     .from_our_farm_content {
@@ -2397,9 +2399,9 @@
     }
 
     .from_our_farm_meat .from_our_farm_meat_img_3 {
-        background-size: 85%;
-        top: 115px;
-        left: 42px;
+        background-size: 77%;
+        top: 110px;
+        left: 0px;
     }
 
     .from_our_farm_content {
@@ -2709,8 +2711,19 @@
     }
 
     .from_our_farm_meat {
-
         background-position-x: 283px;
+    }
+
+    .from_our_farm_meat .from_our_farm_meat_img_3 {
+        background-size: 429px;
+        top: 122px;
+        left: 16px;
+    }
+
+    .from_our_farm_meat .from_our_farm_meat_img_2 {
+        top: 170px;
+        left: 0px;
+        background-size: 495px;
 
     }
 
