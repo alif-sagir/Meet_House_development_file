@@ -350,7 +350,6 @@
 
     .from_our_farm_meat {
         padding: 89px 0px;
-        border: 1px solid red;
         background-position-x: 60%;
         background-size: 44%;
     }
@@ -1120,7 +1119,6 @@
 
     .from_our_farm_meat {
         height: 240px;
-        border: 1px solid red;
         background-position-x: 60%;
         background-size: 44%;
     }
